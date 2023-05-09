@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">MySecondApp</string>
+    <string name="app_name">My Second App</string>
+    <string name="form">Registration Form</string>
+    <string name="welcome">Welcome to Adventure Learning Club!</string>
+    <string name="name">Full Name</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="id">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
 </resources>
